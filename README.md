@@ -2,4 +2,4 @@
 Simple port scanner
 
 # Ex:
-  ./tclport.tcl <IP>
+  ./tclport.tcl 192.168.0.1
